@@ -1,6 +1,6 @@
 <?php
 
-echo "SOMOS EL PUEBLO DE DIOS"
+echo "SOMOS EL PUEBLO DE DIOS";
   
 echo "Somos el pueblo de Dios
       Somos un pueblo especial
@@ -14,6 +14,6 @@ echo "Somos el pueblo de Dios
       Trayéndoles esperanza y nuevas de salvación
       Y su amor nos impulsa
       No nos podemos callar
-      Anunciaremos al mundo de su amor y verdad"
+      Anunciaremos al mundo de su amor y verdad";
   
 ?>
